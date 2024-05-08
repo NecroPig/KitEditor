@@ -1,0 +1,45 @@
+# я хз нахуй здесь этот конфиг, если в нем ниче нет)
+# я нашел применение :)
+# PROTECTION_ENVIRONMENTAL - айди исходников, т.е. то, что нужно вставлять в enchantments в items.yml
+# ("protection") - название в самой игре.
+
+
+# Enchantment PROTECTION_ENVIRONMENTAL = ("protection");
+# Enchantment PROTECTION_FIRE = ("fire_protection");
+# Enchantment PROTECTION_FALL = ("feather_falling");
+# Enchantment PROTECTION_EXPLOSIONS = ("blast_protection");
+# Enchantment PROTECTION_PROJECTILE = ("projectile_protection");
+# Enchantment OXYGEN = ("respiration");
+# Enchantment WATER_WORKER = ("aqua_affinity");
+# Enchantment THORNS = ("thorns");
+# Enchantment DEPTH_STRIDER = ("depth_strider");
+# Enchantment FROST_WALKER = ("frost_walker");
+# Enchantment BINDING_CURSE = ("binding_curse");
+# Enchantment DAMAGE_ALL = ("sharpness");
+# Enchantment DAMAGE_UNDEAD = ("smite");
+# Enchantment DAMAGE_ARTHROPODS = ("bane_of_arthropods");
+# Enchantment KNOCKBACK = ("knockback");
+# Enchantment FIRE_ASPECT = ("fire_aspect");
+# Enchantment LOOT_BONUS_MOBS = ("looting");
+# Enchantment SWEEPING_EDGE = ("sweeping");
+# Enchantment DIG_SPEED = ("efficiency");
+# Enchantment SILK_TOUCH = ("silk_touch");
+# Enchantment DURABILITY = ("unbreaking");
+# Enchantment LOOT_BONUS_BLOCKS = ("fortune");
+# Enchantment ARROW_DAMAGE = ("power");
+# Enchantment ARROW_KNOCKBACK = ("punch");
+# Enchantment ARROW_FIRE = ("flame");
+# Enchantment ARROW_INFINITE = ("infinity");
+# Enchantment LUCK = ("luck_of_the_sea");
+# Enchantment LURE = ("lure");
+# Enchantment LOYALTY = ("loyalty");
+# Enchantment IMPALING = ("impaling");
+# Enchantment RIPTIDE = ("riptide");
+# Enchantment CHANNELING = ("channeling");
+# Enchantment MULTISHOT = ("multishot");
+# Enchantment QUICK_CHARGE = ("quick_charge");
+# Enchantment PIERCING = ("piercing");
+# Enchantment MENDING = ("mending");
+# Enchantment VANISHING_CURSE = ("vanishing_curse");
+# Enchantment SOUL_SPEED = ("soul_speed");
+# Enchantment SWIFT_SNEAK = ("swift_sneak");

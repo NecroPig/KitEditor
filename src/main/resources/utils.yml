@@ -1,0 +1,15 @@
+utils:
+  block: # координата блока, для клика по нему.
+    X: 1
+    Y: 100
+    Z: 0
+  items:
+    ENDER_PEARL: # Предмет
+      slot: 0 # Слот
+      amount: 16 # Кол-во
+    TOTEM_OF_UNDYING:
+      slot: 1
+      amount: 1
+    EXPERIENCE_BOTTLE:
+      slot: 2
+      amount: 64

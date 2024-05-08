@@ -1,6 +1,0 @@
-name: KitEditor
-version: '${project.version}'
-main: ru.matt.kiteditor.KitEditor
-api-version: '1.20'
-authors: [deadlyPig]
-description: The plugin allows you to create item chests to create whales
